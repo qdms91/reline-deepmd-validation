@@ -1,0 +1,6 @@
+/data/raw/
+__pycache__/
+*.py[cod]
+.vscode/
+*.code-workspace
+/hello.py
